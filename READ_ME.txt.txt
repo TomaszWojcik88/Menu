@@ -1,0 +1,1 @@
+Please be avare that in near future I am planning to add this script as wheel to PyPi
